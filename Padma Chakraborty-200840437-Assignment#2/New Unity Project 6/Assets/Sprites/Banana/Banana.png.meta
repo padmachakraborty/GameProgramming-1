@@ -1,0 +1,1668 @@
+fileFormatVersion: 2
+guid: 0f0cef4ba45c994418d479d782ab5e22
+timeCreated: 1456777975
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ball_0
+    21300002: Ball_1
+    21300004: Ball_2
+    21300006: Ball_3
+    21300008: Ball_4
+    21300010: Ball_5
+    21300012: Ball_6
+    21300014: Ball_7
+    21300016: Ball_8
+    21300018: Ball_9
+    21300020: Ball_10
+    21300022: Ball_11
+    21300024: Ball_12
+    21300026: Ball_13
+    21300028: Ball_14
+    21300030: Ball_15
+    21300032: Ball_16
+    21300034: Ball_17
+    21300036: Ball_18
+    21300038: Ball_19
+    21300040: Ball_20
+    21300042: Ball_21
+    21300044: Ball_22
+    21300046: Ball_23
+    21300048: Ball_24
+    21300050: Ball_25
+    21300052: Ball_26
+    21300054: Ball_27
+    21300056: Ball_28
+    21300058: Ball_29
+    21300060: Ball_30
+    21300062: Ball_31
+    21300064: Ball_32
+    21300066: Ball_33
+    21300068: Ball_34
+    21300070: Ball_35
+    21300072: Ball_36
+    21300074: Ball_37
+    21300076: Ball_38
+    21300078: Ball_39
+    21300080: Ball_40
+    21300082: Ball_41
+    21300084: Ball_42
+    21300086: Ball_43
+    21300088: Ball_44
+    21300090: Ball_45
+    21300092: Ball_46
+    21300094: Ball_47
+    21300096: Ball_48
+    21300098: Ball_49
+    21300100: Ball_50
+    21300102: Ball_51
+    21300104: Ball_52
+    21300106: Ball_53
+    21300108: Ball_54
+    21300110: Ball_55
+    21300112: Ball_56
+    21300114: Ball_57
+    21300116: Ball_58
+    21300118: Ball_59
+    21300120: Ball_60
+    21300122: Ball_61
+    21300124: Ball_62
+    21300126: Ball_63
+    21300128: Ball_64
+    21300130: Ball_65
+    21300132: Ball_66
+    21300134: Ball_67
+    21300136: Ball_68
+    21300138: Ball_69
+    21300140: Banana_0
+    21300142: Banana_1
+    21300144: Banana_2
+    21300146: Banana_3
+    21300148: Banana_4
+    21300150: Banana_5
+    21300152: Banana_6
+    21300154: Banana_7
+    21300156: Banana_8
+    21300158: Banana_9
+    21300160: Banana_10
+    21300162: Banana_11
+    21300164: Banana_12
+    21300166: Banana_13
+    21300168: Banana_14
+    21300170: Banana_15
+    21300172: Banana_16
+    21300174: Banana_17
+    21300176: Banana_18
+    21300178: Banana_19
+    21300180: Banana_20
+    21300182: Banana_21
+    21300184: Banana_22
+    21300186: Banana_23
+    21300188: Banana_24
+    21300190: Banana_25
+    21300192: Banana_26
+    21300194: Banana_27
+    21300196: Banana_28
+    21300198: Banana_29
+    21300200: Banana_30
+    21300202: Banana_31
+    21300204: Banana_32
+    21300206: Banana_33
+    21300208: Banana_34
+    21300210: Banana_35
+    21300212: Banana_36
+    21300214: Banana_37
+    21300216: Banana_38
+    21300218: Banana_39
+    21300220: Banana_40
+    21300222: Banana_41
+    21300224: Banana_42
+    21300226: Banana_43
+    21300228: Banana_44
+    21300230: Banana_45
+    21300232: Banana_46
+    21300234: Banana_47
+    21300236: Banana_48
+    21300238: Banana_49
+    21300240: Banana_50
+    21300242: Banana_51
+    21300244: Banana_52
+    21300246: Banana_53
+    21300248: Banana_54
+    21300250: Banana_55
+    21300252: Banana_56
+    21300254: Banana_57
+    21300256: Banana_58
+    21300258: Banana_59
+    21300260: Banana_60
+    21300262: Banana_61
+    21300264: Banana_62
+    21300266: Banana_63
+    21300268: Banana_64
+    21300270: Banana_65
+    21300272: Banana_66
+    21300274: Banana_67
+    21300276: Banana_68
+    21300278: Banana_69
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: 0
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 1
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Banana_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 37}
+        - {x: 4, y: 44}
+        - {x: -4, y: 44}
+        - {x: -11, y: 41}
+        - {x: -38, y: -3}
+        - {x: -38, y: -27}
+        - {x: -21, y: -44}
+        - {x: 5, y: -44}
+        - {x: 30, y: -24}
+        - {x: 31, y: -13}
+        - {x: 31, y: 23}
+    - name: Banana_1
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 44}
+        - {x: -4, y: 44}
+        - {x: -11, y: 41}
+        - {x: -38, y: 1}
+        - {x: -38, y: -17}
+        - {x: -32, y: -30}
+        - {x: -17, y: -44}
+        - {x: 1, y: -44}
+        - {x: 22, y: -36}
+        - {x: 31, y: -21}
+        - {x: 31, y: 23}
+        - {x: 26, y: 38}
+    - name: Banana_2
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 44}
+        - {x: -11, y: 41}
+        - {x: -11, y: 36}
+        - {x: -38, y: -5}
+        - {x: -38, y: -23}
+        - {x: -20, y: -44}
+        - {x: 10, y: -44}
+        - {x: 32, y: -14}
+        - {x: 32, y: 27}
+        - {x: 10, y: 44}
+    - name: Banana_3
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 44}
+        - {x: -11, y: 41}
+        - {x: -11, y: 36}
+        - {x: -38, y: -10}
+        - {x: -38, y: -15}
+        - {x: -27, y: -32}
+        - {x: -10, y: -44}
+        - {x: 11, y: -44}
+        - {x: 32, y: -18}
+        - {x: 32, y: 26}
+        - {x: 9, y: 44}
+    - name: Banana_4
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 28}
+        - {x: 9, y: 44}
+        - {x: -12, y: 44}
+        - {x: -14, y: 43}
+        - {x: -37, y: -8}
+        - {x: -38, y: -12}
+        - {x: -37, y: -20}
+        - {x: -15, y: -44}
+        - {x: 7, y: -44}
+        - {x: 15, y: -41}
+        - {x: 26, y: -24}
+        - {x: 32, y: -12}
+        - {x: 32, y: 15}
+    - name: Banana_5
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 6, y: 44}
+        - {x: -32, y: 44}
+        - {x: -37, y: 12}
+        - {x: -37, y: -45}
+        - {x: -1, y: -45}
+        - {x: 14, y: -41}
+        - {x: 33, y: -16}
+        - {x: 33, y: 18}
+        - {x: 27, y: 37}
+    - name: Banana_6
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 44}
+        - {x: -9, y: 44}
+        - {x: -14, y: 43}
+        - {x: -36, y: -8}
+        - {x: -36, y: -23}
+        - {x: -11, y: -45}
+        - {x: 23, y: -45}
+        - {x: 34, y: -23}
+        - {x: 34, y: 32}
+        - {x: 17, y: 41}
+    - name: Banana_7
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -16, y: 44}
+        - {x: -36, y: -4}
+        - {x: -36, y: -30}
+        - {x: -17, y: -45}
+        - {x: 15, y: -45}
+        - {x: 18, y: -43}
+        - {x: 35, y: -27}
+        - {x: 35, y: 21}
+        - {x: 24, y: 44}
+    - name: Banana_8
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 44}
+        - {x: -35, y: 14}
+        - {x: -35, y: -22}
+        - {x: -24, y: -41}
+        - {x: -11, y: -45}
+        - {x: 16, y: -45}
+        - {x: 35, y: -22}
+        - {x: 35, y: 22}
+        - {x: 28, y: 44}
+    - name: Banana_9
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 720
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 17}
+        - {x: 28, y: 28}
+        - {x: 23, y: 32}
+        - {x: 17, y: 44}
+        - {x: -18, y: 44}
+        - {x: -34, y: 24}
+        - {x: -34, y: -30}
+        - {x: -27, y: -35}
+        - {x: -6, y: -45}
+        - {x: 10, y: -45}
+        - {x: 18, y: -40}
+        - {x: 28, y: -29}
+        - {x: 36, y: -15}
+    - name: Banana_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 44}
+        - {x: -33, y: 24}
+        - {x: -33, y: -26}
+        - {x: -25, y: -34}
+        - {x: -5, y: -35}
+        - {x: 1, y: -30}
+        - {x: 2, y: -28}
+        - {x: -1, y: -33}
+        - {x: 2, y: -45}
+        - {x: 24, y: -45}
+        - {x: 37, y: -21}
+        - {x: 37, y: 29}
+        - {x: 21, y: 44}
+    - name: Banana_11
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 38, y: 15}
+        - {x: 36, y: 30}
+        - {x: 18, y: 44}
+        - {x: -18, y: 44}
+        - {x: -33, y: 14}
+        - {x: -33, y: -40}
+        - {x: -25, y: -45}
+        - {x: 17, y: -45}
+        - {x: 21, y: -43}
+        - {x: 36, y: -23}
+        - {x: 38, y: -13}
+    - name: Banana_12
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 25, y: 44}
+        - {x: -18, y: 44}
+        - {x: -32, y: 6}
+        - {x: -32, y: -23}
+        - {x: -18, y: -43}
+        - {x: -6, y: -45}
+        - {x: 32, y: -45}
+        - {x: 39, y: -23}
+        - {x: 39, y: 29}
+    - name: Banana_13
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 44}
+        - {x: -31, y: 28}
+        - {x: -31, y: -35}
+        - {x: -18, y: -45}
+        - {x: 31, y: -45}
+        - {x: 40, y: -40}
+        - {x: 40, y: 32}
+        - {x: 23, y: 44}
+    - name: Banana_14
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: 44}
+        - {x: -30, y: -45}
+        - {x: 35, y: -45}
+        - {x: 41, y: -36}
+        - {x: 41, y: 22}
+        - {x: 30, y: 44}
+    - name: Banana_15
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 30, y: 35}
+        - {x: 5, y: 44}
+        - {x: -4, y: 44}
+        - {x: -11, y: 41}
+        - {x: -11, y: 36}
+        - {x: -30, y: -14}
+        - {x: -30, y: -18}
+        - {x: -28, y: -23}
+        - {x: -12, y: -37}
+        - {x: 0, y: -35}
+        - {x: 7, y: -30}
+        - {x: 9, y: -41}
+        - {x: 14, y: -44}
+        - {x: 24, y: -44}
+        - {x: 38, y: -33}
+        - {x: 42, y: -21}
+        - {x: 42, y: 16}
+    - name: Banana_16
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 44}
+        - {x: -15, y: 44}
+        - {x: -29, y: 23}
+        - {x: -29, y: -29}
+        - {x: -13, y: -43}
+        - {x: -1, y: -44}
+        - {x: 34, y: -44}
+        - {x: 43, y: -26}
+        - {x: 43, y: 14}
+        - {x: 40, y: 29}
+    - name: Banana_17
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: -33}
+        - {x: -10, y: -44}
+        - {x: 31, y: -44}
+        - {x: 43, y: -28}
+        - {x: 43, y: 32}
+        - {x: 28, y: 44}
+        - {x: -13, y: 44}
+        - {x: -13, y: 43}
+        - {x: -28, y: 4}
+    - name: Banana_18
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -28, y: 22}
+        - {x: -28, y: -40}
+        - {x: -22, y: -44}
+        - {x: 42, y: -44}
+        - {x: 44, y: -40}
+        - {x: 44, y: 24}
+        - {x: 43, y: 32}
+        - {x: 17, y: 44}
+        - {x: -12, y: 44}
+        - {x: -13, y: 43}
+    - name: Banana_19
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 600
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 44}
+        - {x: -28, y: 6}
+        - {x: -28, y: -43}
+        - {x: 34, y: -43}
+        - {x: 44, y: -40}
+        - {x: 44, y: 32}
+        - {x: 15, y: 44}
+    - name: Banana_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 29, y: 44}
+        - {x: -10, y: 44}
+        - {x: -15, y: 42}
+        - {x: -28, y: -8}
+        - {x: -28, y: -33}
+        - {x: -3, y: -43}
+        - {x: 42, y: -43}
+        - {x: 44, y: -35}
+        - {x: 44, y: 31}
+    - name: Banana_21
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 44}
+        - {x: -11, y: 44}
+        - {x: -14, y: 43}
+        - {x: -28, y: 4}
+        - {x: -28, y: -41}
+        - {x: -18, y: -44}
+        - {x: 36, y: -44}
+        - {x: 44, y: -37}
+        - {x: 44, y: 23}
+        - {x: 30, y: 39}
+    - name: Banana_22
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 44}
+        - {x: -13, y: 43}
+        - {x: -29, y: 3}
+        - {x: -29, y: -36}
+        - {x: -4, y: -44}
+        - {x: 28, y: -44}
+        - {x: 43, y: -37}
+        - {x: 43, y: 39}
+        - {x: 24, y: 44}
+    - name: Banana_23
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 42, y: 31}
+        - {x: 29, y: 44}
+        - {x: -17, y: 44}
+        - {x: -30, y: 21}
+        - {x: -30, y: -28}
+        - {x: -11, y: -38}
+        - {x: 3, y: -34}
+        - {x: 12, y: -41}
+        - {x: 17, y: -44}
+        - {x: 24, y: -44}
+        - {x: 35, y: -36}
+        - {x: 43, y: -27}
+        - {x: 43, y: 25}
+    - name: Banana_24
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: 44}
+        - {x: -21, y: 44}
+        - {x: -31, y: 30}
+        - {x: -31, y: -35}
+        - {x: -17, y: -44}
+        - {x: 31, y: -44}
+        - {x: 42, y: -24}
+        - {x: 42, y: 21}
+        - {x: 28, y: 39}
+    - name: Banana_25
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 22, y: 44}
+        - {x: -9, y: 44}
+        - {x: -13, y: 42}
+        - {x: -33, y: -6}
+        - {x: -33, y: -18}
+        - {x: -31, y: -22}
+        - {x: -18, y: -43}
+        - {x: -10, y: -45}
+        - {x: 25, y: -45}
+        - {x: 40, y: -31}
+        - {x: 40, y: 22}
+        - {x: 35, y: 43}
+    - name: Banana_26
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -15, y: 44}
+        - {x: -34, y: 12}
+        - {x: -34, y: -37}
+        - {x: -18, y: -45}
+        - {x: 33, y: -45}
+        - {x: 39, y: -43}
+        - {x: 39, y: 31}
+        - {x: 25, y: 44}
+    - name: Banana_27
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 10, y: 44}
+        - {x: -8, y: 44}
+        - {x: -14, y: 43}
+        - {x: -36, y: 3}
+        - {x: -36, y: -34}
+        - {x: -21, y: -45}
+        - {x: 21, y: -45}
+        - {x: 25, y: -41}
+        - {x: 38, y: -15}
+        - {x: 38, y: 19}
+        - {x: 18, y: 43}
+    - name: Banana_28
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 36, y: 15}
+        - {x: 30, y: 30}
+        - {x: 7, y: 44}
+        - {x: -6, y: 44}
+        - {x: -11, y: 41}
+        - {x: -11, y: 36}
+        - {x: -38, y: 3}
+        - {x: -38, y: -17}
+        - {x: -26, y: -38}
+        - {x: -4, y: -45}
+        - {x: 10, y: -45}
+        - {x: 18, y: -40}
+        - {x: 28, y: -29}
+        - {x: 36, y: -12}
+    - name: Banana_29
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 480
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 44}
+        - {x: -40, y: 16}
+        - {x: -40, y: -20}
+        - {x: -28, y: -36}
+        - {x: -14, y: -45}
+        - {x: 11, y: -45}
+        - {x: 31, y: -34}
+        - {x: 35, y: -16}
+        - {x: 35, y: 29}
+        - {x: 17, y: 44}
+    - name: Banana_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 44}
+        - {x: -42, y: 23}
+        - {x: -42, y: -22}
+        - {x: -35, y: -30}
+        - {x: -11, y: -45}
+        - {x: 15, y: -45}
+        - {x: 33, y: -15}
+        - {x: 33, y: 29}
+        - {x: 21, y: 44}
+    - name: Banana_31
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 44}
+        - {x: -11, y: 41}
+        - {x: -11, y: 36}
+        - {x: -44, y: -1}
+        - {x: -44, y: -32}
+        - {x: -37, y: -44}
+        - {x: 16, y: -44}
+        - {x: 32, y: -27}
+        - {x: 32, y: 26}
+        - {x: 10, y: 44}
+    - name: Banana_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 44}
+        - {x: -45, y: 21}
+        - {x: -45, y: -35}
+        - {x: -34, y: -43}
+        - {x: 27, y: -43}
+        - {x: 31, y: -29}
+        - {x: 31, y: 44}
+    - name: Banana_33
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12, y: 44}
+        - {x: -13, y: 43}
+        - {x: -47, y: 17}
+        - {x: -47, y: -42}
+        - {x: 17, y: -42}
+        - {x: 29, y: -7}
+        - {x: 29, y: 26}
+        - {x: 10, y: 44}
+    - name: Banana_34
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 44}
+        - {x: -13, y: 43}
+        - {x: -48, y: 10}
+        - {x: -48, y: -22}
+        - {x: -26, y: -41}
+        - {x: 8, y: -41}
+        - {x: 28, y: -12}
+        - {x: 28, y: 25}
+        - {x: 6, y: 44}
+    - name: Banana_35
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -49, y: 0}
+        - {x: -42, y: -6}
+        - {x: -37, y: -8}
+        - {x: -32, y: -8}
+        - {x: -34, y: -8}
+        - {x: -44, y: -14}
+        - {x: -35, y: -32}
+        - {x: -29, y: -41}
+        - {x: 5, y: -41}
+        - {x: 27, y: -20}
+        - {x: 27, y: 26}
+        - {x: 25, y: 28}
+        - {x: 11, y: 44}
+        - {x: -24, y: 44}
+        - {x: -49, y: 22}
+    - name: Banana_36
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -24, y: 44}
+        - {x: -50, y: 9}
+        - {x: -50, y: -32}
+        - {x: -33, y: -40}
+        - {x: 11, y: -40}
+        - {x: 27, y: -13}
+        - {x: 27, y: 27}
+        - {x: 13, y: 44}
+    - name: Banana_37
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 44}
+        - {x: -43, y: 44}
+        - {x: -51, y: 40}
+        - {x: -51, y: -24}
+        - {x: -32, y: -39}
+        - {x: -5, y: -39}
+        - {x: 3, y: -36}
+        - {x: 21, y: -23}
+        - {x: 26, y: -4}
+        - {x: 26, y: 34}
+    - name: Banana_38
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 44}
+        - {x: -11, y: 41}
+        - {x: -11, y: 36}
+        - {x: -51, y: 24}
+        - {x: -51, y: -28}
+        - {x: -37, y: -38}
+        - {x: -7, y: -38}
+        - {x: 6, y: -35}
+        - {x: 25, y: -20}
+        - {x: 25, y: 36}
+        - {x: 5, y: 44}
+    - name: Banana_39
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 360
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 35}
+        - {x: 0, y: 44}
+        - {x: -9, y: 44}
+        - {x: -51, y: 15}
+        - {x: -51, y: -17}
+        - {x: -37, y: -38}
+        - {x: -1, y: -38}
+        - {x: 10, y: -36}
+        - {x: 22, y: -7}
+        - {x: 25, y: 2}
+        - {x: 25, y: 22}
+    - name: Banana_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -47, y: 44}
+        - {x: -52, y: 33}
+        - {x: -52, y: -38}
+        - {x: -2, y: -38}
+        - {x: 25, y: -22}
+        - {x: 25, y: 29}
+        - {x: 0, y: 44}
+    - name: Banana_41
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 44}
+        - {x: -10, y: 40}
+        - {x: -11, y: 36}
+        - {x: -48, y: 16}
+        - {x: -52, y: 10}
+        - {x: -52, y: -37}
+        - {x: -50, y: -38}
+        - {x: 25, y: -38}
+        - {x: 25, y: 31}
+        - {x: 8, y: 44}
+    - name: Banana_42
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -4, y: 44}
+        - {x: -10, y: 40}
+        - {x: -11, y: 36}
+        - {x: -51, y: 15}
+        - {x: -51, y: -1}
+        - {x: -44, y: -19}
+        - {x: -35, y: -22}
+        - {x: -31, y: -22}
+        - {x: -34, y: -28}
+        - {x: -32, y: -38}
+        - {x: 6, y: -38}
+        - {x: 13, y: -37}
+        - {x: 25, y: -10}
+        - {x: 25, y: 27}
+        - {x: 0, y: 44}
+    - name: Banana_43
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15, y: 44}
+        - {x: -23, y: 44}
+        - {x: -51, y: 24}
+        - {x: -51, y: -33}
+        - {x: -39, y: -38}
+        - {x: 12, y: -38}
+        - {x: 25, y: -22}
+        - {x: 25, y: 22}
+        - {x: 20, y: 37}
+    - name: Banana_44
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 44}
+        - {x: -4, y: 44}
+        - {x: -11, y: 41}
+        - {x: -11, y: 36}
+        - {x: -51, y: 15}
+        - {x: -51, y: -12}
+        - {x: -42, y: -38}
+        - {x: 5, y: -38}
+        - {x: 25, y: -10}
+        - {x: 25, y: 24}
+        - {x: 23, y: 30}
+    - name: Banana_45
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 44}
+        - {x: -51, y: 20}
+        - {x: -51, y: -18}
+        - {x: -50, y: -20}
+        - {x: -43, y: -39}
+        - {x: 3, y: -39}
+        - {x: 26, y: -29}
+        - {x: 26, y: 27}
+        - {x: 11, y: 44}
+    - name: Banana_46
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 44}
+        - {x: -11, y: 44}
+        - {x: -14, y: 43}
+        - {x: -50, y: 25}
+        - {x: -50, y: -32}
+        - {x: -48, y: -39}
+        - {x: 16, y: -39}
+        - {x: 24, y: -18}
+        - {x: 26, y: -6}
+        - {x: 26, y: 30}
+    - name: Banana_47
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 9, y: 44}
+        - {x: -27, y: 44}
+        - {x: -49, y: 11}
+        - {x: -49, y: -18}
+        - {x: -39, y: -39}
+        - {x: 2, y: -39}
+        - {x: 26, y: -29}
+        - {x: 26, y: 32}
+        - {x: 20, y: 42}
+    - name: Banana_48
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 3, y: 44}
+        - {x: -10, y: 44}
+        - {x: -13, y: 42}
+        - {x: -49, y: 13}
+        - {x: -49, y: -13}
+        - {x: -45, y: -22}
+        - {x: -31, y: -40}
+        - {x: 5, y: -40}
+        - {x: 14, y: -39}
+        - {x: 27, y: -7}
+        - {x: 27, y: 24}
+        - {x: 17, y: 38}
+    - name: Banana_49
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 240
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 44}
+        - {x: -14, y: 44}
+        - {x: -16, y: 43}
+        - {x: -48, y: 5}
+        - {x: -48, y: -25}
+        - {x: -24, y: -40}
+        - {x: 13, y: -40}
+        - {x: 15, y: -39}
+        - {x: 27, y: -12}
+        - {x: 27, y: 32}
+    - name: Banana_50
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 44}
+        - {x: -47, y: 13}
+        - {x: -47, y: -27}
+        - {x: -35, y: -41}
+        - {x: 11, y: -41}
+        - {x: 27, y: -37}
+        - {x: 27, y: 35}
+        - {x: 16, y: 44}
+    - name: Banana_51
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 28, y: 28}
+        - {x: 1, y: 44}
+        - {x: -10, y: 44}
+        - {x: -13, y: 42}
+        - {x: -46, y: 6}
+        - {x: -46, y: -21}
+        - {x: -20, y: -41}
+        - {x: -10, y: -41}
+        - {x: 6, y: -40}
+        - {x: 28, y: -12}
+    - name: Banana_52
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -14, y: 44}
+        - {x: -45, y: 9}
+        - {x: -45, y: -26}
+        - {x: -31, y: -41}
+        - {x: 0, y: -41}
+        - {x: 23, y: -31}
+        - {x: 28, y: -10}
+        - {x: 28, y: 32}
+        - {x: 18, y: 44}
+    - name: Banana_53
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -11, y: 44}
+        - {x: -13, y: 43}
+        - {x: -44, y: 0}
+        - {x: -44, y: -9}
+        - {x: -35, y: -28}
+        - {x: -26, y: -42}
+        - {x: 5, y: -42}
+        - {x: 29, y: -15}
+        - {x: 29, y: 29}
+        - {x: 8, y: 44}
+    - name: Banana_54
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 21, y: 44}
+        - {x: -22, y: 44}
+        - {x: -44, y: 24}
+        - {x: -44, y: -19}
+        - {x: -28, y: -42}
+        - {x: 3, y: -42}
+        - {x: 7, y: -40}
+        - {x: 29, y: -23}
+        - {x: 29, y: 23}
+        - {x: 25, y: 40}
+    - name: Banana_55
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 8, y: 44}
+        - {x: -11, y: 44}
+        - {x: -13, y: 43}
+        - {x: -43, y: -1}
+        - {x: -43, y: -19}
+        - {x: -37, y: -26}
+        - {x: -29, y: -28}
+        - {x: -21, y: -29}
+        - {x: -19, y: -38}
+        - {x: -17, y: -42}
+        - {x: 1, y: -42}
+        - {x: 27, y: -21}
+        - {x: 29, y: -13}
+        - {x: 29, y: 26}
+    - name: Banana_56
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 44}
+        - {x: -42, y: 2}
+        - {x: -42, y: -35}
+        - {x: -25, y: -43}
+        - {x: 20, y: -43}
+        - {x: 30, y: -33}
+        - {x: 30, y: 38}
+        - {x: 14, y: 44}
+    - name: Banana_57
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 7, y: 44}
+        - {x: -7, y: 44}
+        - {x: -11, y: 41}
+        - {x: -11, y: 36}
+        - {x: -42, y: -2}
+        - {x: -42, y: -9}
+        - {x: -41, y: -15}
+        - {x: -35, y: -23}
+        - {x: -29, y: -38}
+        - {x: -20, y: -43}
+        - {x: 10, y: -43}
+        - {x: 23, y: -26}
+        - {x: 30, y: -5}
+        - {x: 30, y: 27}
+    - name: Banana_58
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 44}
+        - {x: -41, y: 23}
+        - {x: -41, y: -43}
+        - {x: 24, y: -43}
+        - {x: 30, y: -21}
+        - {x: 30, y: 26}
+        - {x: 7, y: 44}
+    - name: Banana_59
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 120
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -20, y: 44}
+        - {x: -41, y: 22}
+        - {x: -41, y: -22}
+        - {x: -23, y: -43}
+        - {x: 2, y: -43}
+        - {x: 21, y: -35}
+        - {x: 30, y: -17}
+        - {x: 30, y: 30}
+        - {x: 20, y: 44}
+    - name: Banana_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 44}
+        - {x: -40, y: 16}
+        - {x: -40, y: -35}
+        - {x: -30, y: -43}
+        - {x: 12, y: -43}
+        - {x: 31, y: -35}
+        - {x: 31, y: 37}
+        - {x: 24, y: 44}
+    - name: Banana_61
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 18, y: 44}
+        - {x: -18, y: 44}
+        - {x: -40, y: 23}
+        - {x: -40, y: -18}
+        - {x: -19, y: -43}
+        - {x: 12, y: -43}
+        - {x: 31, y: -10}
+        - {x: 31, y: 18}
+        - {x: 28, y: 29}
+    - name: Banana_62
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -17, y: 44}
+        - {x: -39, y: 15}
+        - {x: -39, y: -34}
+        - {x: -27, y: -43}
+        - {x: 20, y: -43}
+        - {x: 31, y: -17}
+        - {x: 31, y: 29}
+        - {x: 20, y: 44}
+    - name: Banana_63
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 19, y: 44}
+        - {x: -19, y: 44}
+        - {x: -39, y: 23}
+        - {x: -39, y: -22}
+        - {x: -16, y: -44}
+        - {x: 10, y: -44}
+        - {x: 31, y: -19}
+        - {x: 31, y: 23}
+        - {x: 30, y: 28}
+    - name: Banana_64
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 44}
+        - {x: -39, y: 22}
+        - {x: -39, y: -27}
+        - {x: -23, y: -44}
+        - {x: 7, y: -44}
+        - {x: 31, y: -28}
+        - {x: 31, y: 27}
+        - {x: 19, y: 44}
+    - name: Banana_65
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 5, y: 44}
+        - {x: -6, y: 44}
+        - {x: -36, y: 27}
+        - {x: -39, y: 16}
+        - {x: -39, y: -44}
+        - {x: 5, y: -44}
+        - {x: 27, y: -33}
+        - {x: 31, y: -18}
+        - {x: 31, y: 14}
+        - {x: 28, y: 27}
+    - name: Banana_66
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -7, y: 44}
+        - {x: -11, y: 41}
+        - {x: -39, y: -1}
+        - {x: -39, y: -26}
+        - {x: -24, y: -44}
+        - {x: 5, y: -44}
+        - {x: 31, y: -27}
+        - {x: 31, y: 32}
+        - {x: 10, y: 44}
+    - name: Banana_67
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -18, y: 44}
+        - {x: -39, y: 18}
+        - {x: -39, y: -27}
+        - {x: -23, y: -44}
+        - {x: 11, y: -44}
+        - {x: 31, y: -36}
+        - {x: 31, y: 36}
+        - {x: 24, y: 44}
+    - name: Banana_68
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -8, y: 44}
+        - {x: -11, y: 41}
+        - {x: -11, y: 36}
+        - {x: -39, y: -6}
+        - {x: -39, y: -23}
+        - {x: -17, y: -44}
+        - {x: 18, y: -44}
+        - {x: 31, y: -13}
+        - {x: 31, y: 34}
+        - {x: 13, y: 44}
+    - name: Banana_69
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 0
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 17, y: 37}
+        - {x: 4, y: 44}
+        - {x: -4, y: 44}
+        - {x: -11, y: 41}
+        - {x: -38, y: -3}
+        - {x: -38, y: -27}
+        - {x: -21, y: -44}
+        - {x: 5, y: -44}
+        - {x: 30, y: -24}
+        - {x: 31, y: -13}
+        - {x: 31, y: 23}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
